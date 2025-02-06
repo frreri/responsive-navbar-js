@@ -4,12 +4,20 @@ I use an eventlistener with media query to show a burger menu when the screen is
 
 Desktop mode:
 
-![Image](https://github.com/user-attachments/assets/4bf30187-0159-4758-94d5-a191b3705bd6)
+![Image](https://github.com/user-attachments/assets/669f030c-e05c-47ba-9a24-23f3e9f33271)
 
 Mobile mode:
 
-![Image](https://github.com/user-attachments/assets/931909e3-fe3a-49ca-9fbc-685109a433fb)
+![Image](https://github.com/user-attachments/assets/8d093109-29d0-4304-97bb-d965dd255c32)
 
 Menu expanded in mobile mode (made to fill screen for ease of use on touch screen):
 
-![Image](https://github.com/user-attachments/assets/b43946ac-5558-44c7-9c61-486f1668ef05)
+![Image](https://github.com/user-attachments/assets/3ed70035-f7da-4e53-b303-4634239fc90a)
+
+
+
+
+
+
+
+
