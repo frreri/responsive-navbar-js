@@ -7,8 +7,9 @@ toggleBtn.addEventListener("click", () => {
   navMenu.classList.toggle("hidden");
 });
 
-// La i function så jag kan använda samma vid första laddning och när mediaQuery status ändras
+// Function för att switcha mellan mobil och desktop läge på nav-meny och burger-knapp
 const setNavMenuMode = (e) => {
+  console.log(e);
   // mediaQuery variabeln och dess event har båda .matches som är true eller false beroende på om regeln matchar
   if (e.matches) {
     navMenu.classList.add("hidden");
